@@ -20,13 +20,15 @@ export default function AppRouter() {
       <Navbar className="bg-warning">
         <Container>
           <Navbar.Brand href="/">
-            <img
+            {/* <img
               alt=""
-              src="https://png2.cleanpng.com/sh/28b7f1a0449cae53297302077e9d6b07/L0KzQYm3V8ExN5N7R91yc4Pzfri0gvxia5wyh9N0LYfsfra0gBFjbaNzfeY2c3H4hrrujv9vNaV3fdc2bHBqf377iPlzfKoyh9DuLXzyd7E0lQJidqR1eeRuboSwRbO7VcI3bWFpfdNuNUmxRYiBVsc2Pmc2TaU6MkW7RYq5WcEzOV91htk=/kisspng-black-oak-wine-cabernet-sauvignon-tree-logo-thirty-one-logo-transparent-5b4526e0deae59.5786756615312585929121.png"
+              src="./realty_logo.png"
               width="30"
               height="30"
               className="d-inline-block align-top"
-            />{' '}
+            /> */}
+            <svg t="1732197173186" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3270" width="32" height="32"><path d="M241 816h272V176.573l-272 84.279V816z m541 0V444.036l-189-54.827V816h189z m80-406.185V816h49c8.837 0 16 7.163 16 16v48c0 8.837-7.163 16-16 16H114c-8.837 0-16-7.163-16-16v-48c0-8.837 7.163-16 16-16h47V226.741a32 32 0 0 1 21.476-30.22L571.738 71.405C582.136 67.783 593 75.504 593 86.515v218.071l247.432 74.977A32 32 0 0 1 862 409.815zM458 407H299v80h159v-80zM299 586h159v80H299v-80z m448 0H627v80h120v-80z" fill="#2c2c2c" p-id="3271"></path></svg>
+            {' '}
             Black Oak Realty
           </Navbar.Brand>
           <Nav className="me-auto">
